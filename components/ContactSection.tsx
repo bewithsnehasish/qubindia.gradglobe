@@ -16,7 +16,7 @@ const contactMethods = [
   {
     icon: Phone,
     title: "Call Admissions",
-    info: "+44 28 9097 5088",
+    info: "+91 9876644336",
     sub: "Mon-Fri, 9am - 5pm GMT",
     color: "bg-slate-900",
     hoverBorder: "group-hover:border-slate-900",
@@ -24,7 +24,7 @@ const contactMethods = [
   {
     icon: Mail,
     title: "Email Support",
-    info: "india.admissions@qub.ac.uk",
+    info: "info@gradglobe.com",
     sub: "Response within 24 hours",
     color: "bg-[#D6000D]",
     hoverBorder: "group-hover:border-[#D6000D]",
